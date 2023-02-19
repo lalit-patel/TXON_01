@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit_Converter</string>
+    <string name="convert">Convert</string>
+    <string name="enter_currency_in_rupees">Enter Currency in Rupees</string>
+    <string name="enter_length_in_meters">Enter length in meters</string>
+    <string name="length">Length</string>
+    <string name="weight">Weight</string>
+    <string name="time">Time</string>
+    <string name="currency">Currency</string>
+    <string name="enter_time_in_hours">Enter Time in hours</string>
+    <string name="enter_weight_in_kg">Enter weight in kg</string>
+</resources>
